@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"10-09012017-098497";"";
+"REFERENCE";"7313 BECBM";"";
+"TraceParts.PartVersion";"1.2.6";"";
+"TraceParts.InstanceId";"10-09012017-0984971GMW0LNUQ6KMMBUK3CMO665TV";"";
+"TraceParts.PartTitle";"Angular contact ball bearings, single row";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Angular contact ball bearings, single row, Bore Ø 65 mm, Outside Ø 140 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"2.15";"";
