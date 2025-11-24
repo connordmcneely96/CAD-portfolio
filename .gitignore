@@ -1,0 +1,39 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# SolidWorks cache and temp files
+*.sldprt~
+*.sldasm~
+*.slddrw~
+*.swp
+*.log
+swbackup/
+~$*
+*.tmp
+*.bak
+*.old
+
+# Simulation and analysis outputs
+*.sim
+*.cwr
+*.out
+*.fld
+*.plt
+*.ptsd
+*.psdres
+*.p2m
+*.db
+
+# Export helpers
+*.zip
+*.7z
+*.rar
+
+# IDE and editor metadata
+.vscode/
+.idea/
+*.code-workspace
+
+# System files
+Desktop.ini
